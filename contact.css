@@ -1,0 +1,132 @@
+.nav{
+    padding-right: 250px;
+}
+.ym{
+    width: 100%;
+}
+.tg{
+    display: flex;
+    justify-content: space-between;
+}
+.fg{
+    padding-left: 50px;
+}
+.fgg{
+    padding-top: 200px;
+}
+.fd{
+    text-align: center;
+    color: black;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.dc{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+}
+.ui{
+    padding-left: 300px;
+}
+.op{
+    display: flex;
+    justify-content: space-between;
+    background-color: #14394C;
+}
+.css{
+    padding-top: 250px;
+    width: 650px;
+    height: 450px;
+}
+.cr{
+    width: 100%;
+}
+.mmmm{
+    color: white;
+    background-color: #6D1830;
+    border: none;
+    border-radius: 4px;
+    width: 150px;
+    padding: 14px 20px 14px 20px;
+    font-size: smaller;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+    .nav{
+        padding-right: 250px;
+    }
+    .ym{
+        width: 500px;
+    }
+    .tg{
+        display: block;
+        justify-content: space-between;
+    }
+    .fg{
+        display: block;
+        width: 300px;
+        padding-left: 50px;
+    }
+    .fgg{
+        display: block;
+        width: 500px;
+        padding-top: 20px;
+        padding-left: 50px;
+    }
+    .fd{
+        text-align: center;
+        color: black;
+        padding-top: 40px;
+        padding-bottom: 25px;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .dc{
+        display: block;
+        justify-content: space-evenly;
+        padding-bottom: 50px;
+    }
+    .hj{
+        display: block;
+        width: 250px;
+        padding-left: 50px;
+    }
+    .op{
+        display: block;
+        /* justify-content: space-between; */
+        background-color: #14394C;
+        width: 550px;
+    }
+    .ui{
+        padding-left: 100px;
+        width: 450px;
+    }
+    .cs{
+        width: 300px;
+        padding-left: 0px;
+    }
+    .css{
+        padding-top: 50px;
+        display: block;
+        width: 500px;
+        height: 250px;
+        padding-left: 50px;
+        padding-bottom: 50px;
+    }
+    .cr{
+        width: 550px;
+    }
+    .mmmm{
+        color: white;
+        background-color: #6D1830;
+        border: none;
+        border-radius: 4px;
+        width: 100px;
+        padding: 14px 5px 14px 4px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+}
